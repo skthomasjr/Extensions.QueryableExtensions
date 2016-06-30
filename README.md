@@ -8,3 +8,5 @@
 [![Join the chat at https://gitter.im/skthomasjr/Extensions.QueryableExtensions](https://badges.gitter.im/skthomasjr/Extensions.QueryableExtensions.svg)](https://gitter.im/skthomasjr/Extensions.QueryableExtensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Extension methods for use with IQueryable<T>.
+
+See the [assembly documentation](https://skthomasjr.github.io/Extensions.QueryableExtensions/Site/Help/) for help on usage and code samples.
