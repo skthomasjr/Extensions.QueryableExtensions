@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Extensions.QueryableExtensions namespace" Url="html/169649256.htm" />
+  <HelpKINode Title="Extensions.QueryableExtensions.QueryableExtensions class">
+    <HelpKINode Title="QueryableExtensions Class" Url="html/974319354.htm" />
+    <HelpKINode Title="QueryableExtensions Members" Url="html/2049149016.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoadAsync(Of TSource) method" Url="html/818504577.htm" />
+  <HelpKINode Title="LoadAsync&lt;TSource&gt; method" Url="html/818504577.htm" />
+  <HelpKINode Title="QueryableExtensions class">
+    <HelpKINode Title="QueryableExtensions Class" Url="html/974319354.htm" />
+    <HelpKINode Title="QueryableExtensions Members" Url="html/2049149016.htm" />
+    <HelpKINode Title="about QueryableExtensions class" Url="html/974319354.htm" />
+    <HelpKINode Title="all members" Url="html/2049149016.htm" />
+    <HelpKINode Title="methods" Url="html/2027158448.htm" />
+  </HelpKINode>
+  <HelpKINode Title="QueryableExtensions.LoadAsync(Of TSource) method" Url="html/818504577.htm" />
+  <HelpKINode Title="QueryableExtensions.LoadAsync&lt;TSource&gt; method" Url="html/818504577.htm" />
+  <HelpKINode Title="QueryableExtensions.ToArrayAsync(Of TSource) method" Url="html/37383242.htm" />
+  <HelpKINode Title="QueryableExtensions.ToArrayAsync&lt;TSource&gt; method" Url="html/37383242.htm" />
+  <HelpKINode Title="QueryableExtensions.ToDictionaryAsync(Of TKey, TSource) method" Url="html/901093149.htm" />
+  <HelpKINode Title="QueryableExtensions.ToDictionaryAsync&lt;TKey, TSource&gt; method" Url="html/901093149.htm" />
+  <HelpKINode Title="QueryableExtensions.ToListAsync(Of TSource) method" Url="html/1275201064.htm" />
+  <HelpKINode Title="QueryableExtensions.ToListAsync&lt;TSource&gt; method" Url="html/1275201064.htm" />
+  <HelpKINode Title="ToArrayAsync(Of TSource) method" Url="html/37383242.htm" />
+  <HelpKINode Title="ToArrayAsync&lt;TSource&gt; method" Url="html/37383242.htm" />
+  <HelpKINode Title="ToDictionaryAsync(Of TKey, TSource) method" Url="html/901093149.htm" />
+  <HelpKINode Title="ToDictionaryAsync&lt;TKey, TSource&gt; method" Url="html/901093149.htm" />
+  <HelpKINode Title="ToListAsync(Of TSource) method" Url="html/1275201064.htm" />
+  <HelpKINode Title="ToListAsync&lt;TSource&gt; method" Url="html/1275201064.htm" />
+</HelpKI>
