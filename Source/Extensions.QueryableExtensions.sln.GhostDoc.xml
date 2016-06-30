@@ -17,7 +17,7 @@
     <CleanupOutputPath>true</CleanupOutputPath>
     <HelpFileName>Extensions.QueryableExtensions</HelpFileName>
     <ImageFolderPath />
-    <Theme>FlatGray</Theme>
+    <Theme>FlatMain</Theme>
     <HtmlFormats>
       <HtmlHelp>false</HtmlHelp>
       <MSHelpViewer>false</MSHelpViewer>
@@ -27,7 +27,7 @@
     <IncludeScopes>
       <Public>true</Public>
       <Internal>false</Internal>
-      <Protected>false</Protected>
+      <Protected>true</Protected>
       <Private>false</Private>
       <Inherited>true</Inherited>
       <InheritedFromReferences>true</InheritedFromReferences>
@@ -38,7 +38,7 @@
     </IncludeScopes>
     <SyntaxLanguages>
       <CSharp>true</CSharp>
-      <VisualBasic>false</VisualBasic>
+      <VisualBasic>true</VisualBasic>
       <CPlusPlus>false</CPlusPlus>
     </SyntaxLanguages>
     <ResolveCrefLinks>true</ResolveCrefLinks>
