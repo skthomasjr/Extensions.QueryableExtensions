@@ -4,7 +4,7 @@
     <id>Extensions.QueryableExtensions</id>
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
-    <description>Extension methods for use with IQueryable&lt;T&gt;.</description>
+    <description>Provides various extension methods for use with IQueryable&lt;T&gt; implementations.</description>
     <tags>extension extensions method methods async asynchronous queryable iqueryable</tags>
     <iconUrl>https://raw.githubusercontent.com/skthomasjr/Extensions.QueryableExtensions/master/Build/NuGet/Package.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Extensions.QueryableExtensions/master/LICENSE.md</licenseUrl>
