@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="86af9546-ff94-48f5-9821-6c712b6d03e5" Title="Extensions.QueryableExtensions Namespace" Url="html/169649256.htm">
-    <HelpTOCNode Id="418f7e3d-82c4-4955-a506-c392af148255" Title="QueryableExtensions Class" Url="html/974319354.htm">
+  <HelpTOCNode Id="06e3514e-4cc6-423f-b0a6-9993ac5780b2" Title="Extensions.QueryableExtensions Namespace" Url="html/169649256.htm">
+    <HelpTOCNode Id="c861d4c0-438b-4ce2-b9b3-4d532e46a78c" Title="QueryableExtensions Class" Url="html/974319354.htm">
       <HelpTOCNode Title="QueryableExtensions Members" Url="html/2049149016.htm" />
-      <HelpTOCNode Id="5e3fc62f-b064-4508-adf9-cb96c791a26f" Title="QueryableExtensions Methods" Url="html/2027158448.htm">
+      <HelpTOCNode Id="0c5a59d5-feee-4c3d-9d1a-d5c4762acb7a" Title="QueryableExtensions Methods" Url="html/2027158448.htm">
         <HelpTOCNode Title="LoadAsync(TSource) Method " Url="html/818504577.htm" />
         <HelpTOCNode Title="ToArrayAsync(TSource) Method " Url="html/37383242.htm" />
         <HelpTOCNode Title="ToDictionaryAsync(TKey, TSource) Method " Url="html/901093149.htm" />
