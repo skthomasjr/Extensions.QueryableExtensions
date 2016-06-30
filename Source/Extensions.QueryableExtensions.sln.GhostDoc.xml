@@ -13,7 +13,7 @@
   </SpellChecker>
 <HelpConfigurations selected="HelpFile">
   <HelpConfiguration name="HelpFile">
-    <OutputPath>.\Help</OutputPath>
+    <OutputPath>..\Site\Help</OutputPath>
     <CleanupOutputPath>true</CleanupOutputPath>
     <HelpFileName>Extensions.QueryableExtensions</HelpFileName>
     <ImageFolderPath />
@@ -45,6 +45,9 @@
     <HeaderText />
     <FooterText />
     <SelectedProjects>
+      <SelectedProject>Extensions.QueryableExtensions.Net461</SelectedProject>
+      <SelectedProject>Extensions.QueryableExtensions.Net461</SelectedProject>
+      <SelectedProject>Extensions.QueryableExtensions.Net461</SelectedProject>
       <SelectedProject>Extensions.QueryableExtensions.Net461</SelectedProject>
     </SelectedProjects>
   </HelpConfiguration>
