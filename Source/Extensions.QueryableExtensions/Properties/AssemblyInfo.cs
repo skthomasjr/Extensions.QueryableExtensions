@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Extensions.QueryableExtensions")]
-[assembly: AssemblyDescription("Extension methods for use with IQueryable<T>.")]
+[assembly: AssemblyDescription("Provides various extension methods for use with IQueryable<T> implementations.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Scott Keith Thomas, Jr.")]
 [assembly: AssemblyProduct("Extensions.QueryableExtensions")]
