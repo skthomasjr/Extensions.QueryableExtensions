@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Extensions.QueryableExtensions</id>
+    <version>0.0.0</version>
+    <authors>Scott Keith Thomas, Jr.</authors>
+    <description>Extension methods for use with IQueryable<T>.</description>
+    <tags>extension extensions method methods async asynchronous queryable iqueryable</tags>
+    <iconUrl>https://raw.githubusercontent.com/skthomasjr/Extensions.QueryableExtensions/master/Build/NuGet/Package.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Extensions.QueryableExtensions/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skthomasjr/Extensions.QueryableExtensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
