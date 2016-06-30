@@ -17,7 +17,7 @@
     <CleanupOutputPath>true</CleanupOutputPath>
     <HelpFileName>Extensions.QueryableExtensions</HelpFileName>
     <ImageFolderPath />
-    <Theme />
+    <Theme>FlatGray</Theme>
     <HtmlFormats>
       <HtmlHelp>true</HtmlHelp>
       <MSHelpViewer>false</MSHelpViewer>
@@ -38,15 +38,18 @@
     </IncludeScopes>
     <SyntaxLanguages>
       <CSharp>true</CSharp>
-      <VisualBasic>true</VisualBasic>
-      <CPlusPlus>true</CPlusPlus>
+      <VisualBasic>false</VisualBasic>
+      <CPlusPlus>false</CPlusPlus>
     </SyntaxLanguages>
     <ResolveCrefLinks>true</ResolveCrefLinks>
     <HeaderText />
     <FooterText />
-    <SelectedProjects />
+    <SelectedProjects>
+      <SelectedProject>Extensions.QueryableExtensions.Net461</SelectedProject>
+    </SelectedProjects>
   </HelpConfiguration>
 </HelpConfigurations>
 <GeneralProperties>
+  <SearchInheritedCommentsOnlyWithinProject>False</SearchInheritedCommentsOnlyWithinProject>
 </GeneralProperties>
 </GhostDoc>

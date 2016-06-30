@@ -10,6 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Properties\AssemblyInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)QueryableExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)QueryableExtensions.LoadAsync.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)QueryableExtensions.ToArrayAsync.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)QueryableExtensions.ToDictionaryAsync.cs" />
