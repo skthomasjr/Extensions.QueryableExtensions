@@ -1,14 +1,11 @@
 
 html {
     font-size: 100%;
-	margin:0;
-	padding:0;
 }
 
 body {
 	font:.875em/1.35 'Segoe UI','Lucida Grande',Verdana,Arial,Helvetica,sans-serif;
 	margin:0;
-	padding:0;
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	font-size:0.8125em;
     line-height: 20px;
@@ -30,7 +27,7 @@ p {
 }
 
 a:link {
-	color:#0693D1;
+	color:#3390B1;
 	text-decoration:none
 }
 
@@ -39,7 +36,7 @@ a:hover {
 }
 
 a:visited {
-	color:#0693D1;
+	color:#3390B1;
 	text-decoration:none
 }
 
@@ -51,7 +48,7 @@ img {
 	margin:0;
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	font-size:2.0em;
-	color:#035E85;
+	color:#000;
 	font-weight:400;
 	line-height:100%;
 }
@@ -59,7 +56,7 @@ img {
 .h2, h2 {
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	font-size:1.3em;
-	color:#035E85;
+	color:#000;
 	font-weight:bold;
 	line-height:100%;
 }
@@ -67,7 +64,7 @@ img {
 .h3, h3 {
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	font-size:1.1em;
-	color:#035E85;
+	color:#000;
 	font-weight:bold;
 	line-height:100%;
 }
@@ -82,14 +79,14 @@ img {
 table {
 	border-style:solid;
 	border-width:1px;
-	border-color:#d5d5d5;
-	border-collapse:collapse;
+	border-color:#bbb;
+	border-collapse:collapse
 }
 
 table th {
 	border-style:solid;
 	border-width:1px;
-	border-color:#d5d5d5;
+	border-color:#bbb;
 	padding: 10px 8px;
 	font-weight:bold;
 }
@@ -97,7 +94,7 @@ table th {
 table td {
 	border-style:solid;
 	border-width:1px;
-	border-color:#d5d5d5;
+	border-color:#bbb;
 	padding: 10px 8px;
 }
 
@@ -105,6 +102,7 @@ td p {
 	margin-top:0;
 	margin-bottom:0;
 }
+
 
 .borderLine {
 	border-width:1px;
@@ -177,8 +175,6 @@ td p {
 .SearchButton img, .SearchButton input {
 	position:absolute;
 	margin:0;
-	padding-left:10px;
-	padding-right:10px;
 	width:auto;
 	height:auto
 }
@@ -335,7 +331,7 @@ td p {
 .topicContainer .topic .title {
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	font-size:2.77em;
-	color:#01374F;
+	color:#000;
 	font-weight:400;
 }
 
@@ -350,7 +346,7 @@ td p {
 }
 
 .topicContainer table th {
-	background-color:#f5f5f5;
+	background-color:#eDeDeD;
 	padding: 10px 8px 10px 8px;
 	text-align:left;
 	height:21px;
@@ -400,7 +396,7 @@ td p {
 .LW_CollapsibleArea_Title {
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	font-size:2.16em;
-	color:#035E85;
+	color:#000;
 	font-weight:normal;
 	float:left;
 	padding-top: 20px;
@@ -945,8 +941,8 @@ span.mtps-th {
 	font-family:'Segoe UI',Tahoma,Helvetica,Sans-Serif;
 	color:#fff;
 	border:none;
-	border-bottom:1px #099BDD solid;
-	background-color:#0382B9;
+	border-bottom:1px #505050 solid;
+	background-color:#232323;
 	min-width:700px
 }
 

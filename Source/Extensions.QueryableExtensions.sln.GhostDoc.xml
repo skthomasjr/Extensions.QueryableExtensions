@@ -17,7 +17,7 @@
     <CleanupOutputPath>true</CleanupOutputPath>
     <HelpFileName>Extensions.QueryableExtensions</HelpFileName>
     <ImageFolderPath />
-    <Theme>FlatMain</Theme>
+    <Theme>FlatGray</Theme>
     <HtmlFormats>
       <HtmlHelp>false</HtmlHelp>
       <MSHelpViewer>false</MSHelpViewer>
