@@ -1,6 +1,6 @@
 # Extensions.QueryableExtensions
 
-[![Build](https://ci.appveyor.com/api/projects/status/r6t2rvc0qru109ni?svg=true)](https://ci.appveyor.com/project/skthomasjr/extensions-queryableextensions)
+[![Build](https://ci.appveyor.com/api/projects/status/ge42143b4ub5nlx6?svg=true)](https://ci.appveyor.com/project/skthomasjr/extensions-queryableextensions)
 [![Release](https://img.shields.io/github/release/skthomasjr/Extensions.QueryableExtensions.svg?maxAge=2592000)](https://github.com/skthomasjr/Extensions.QueryableExtensions/releases)
 [![NuGet](https://img.shields.io/nuget/v/Extensions.QueryableExtensions.svg)](https://www.nuget.org/packages/Extensions.QueryableExtensions)
 [![License](https://img.shields.io/github/license/skthomasjr/Extensions.QueryableExtensions.svg?maxAge=2592000)](LICENSE.md)
