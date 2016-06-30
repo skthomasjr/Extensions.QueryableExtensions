@@ -9,4 +9,4 @@
 
 Extension methods for use with IQueryable<T>.
 
-See the [assembly documentation](https://skthomasjr.github.io/Extensions.QueryableExtensions/Site/Help/) for help on usage and code samples.
+See the [assembly help documentation](https://skthomasjr.github.io/Extensions.QueryableExtensions/Site/Help/) for help on usage and code samples.
